@@ -1,0 +1,15 @@
+C:\Users\yusuf\OneDrive\Документы\Developer\Results of the block. Choosing a specialization\Result task\bin\Debug\net6.0\Result task.exe
+C:\Users\yusuf\OneDrive\Документы\Developer\Results of the block. Choosing a specialization\Result task\bin\Debug\net6.0\Result task.deps.json
+C:\Users\yusuf\OneDrive\Документы\Developer\Results of the block. Choosing a specialization\Result task\bin\Debug\net6.0\Result task.runtimeconfig.json
+C:\Users\yusuf\OneDrive\Документы\Developer\Results of the block. Choosing a specialization\Result task\bin\Debug\net6.0\Result task.dll
+C:\Users\yusuf\OneDrive\Документы\Developer\Results of the block. Choosing a specialization\Result task\bin\Debug\net6.0\Result task.pdb
+C:\Users\yusuf\OneDrive\Документы\Developer\Results of the block. Choosing a specialization\Result task\obj\Debug\net6.0\Result task.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Документы\Developer\Results of the block. Choosing a specialization\Result task\obj\Debug\net6.0\Result task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Документы\Developer\Results of the block. Choosing a specialization\Result task\obj\Debug\net6.0\Result task.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Документы\Developer\Results of the block. Choosing a specialization\Result task\obj\Debug\net6.0\Result task.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Документы\Developer\Results of the block. Choosing a specialization\Result task\obj\Debug\net6.0\Result task.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Документы\Developer\Results of the block. Choosing a specialization\Result task\obj\Debug\net6.0\Result task.dll
+C:\Users\yusuf\OneDrive\Документы\Developer\Results of the block. Choosing a specialization\Result task\obj\Debug\net6.0\refint\Result task.dll
+C:\Users\yusuf\OneDrive\Документы\Developer\Results of the block. Choosing a specialization\Result task\obj\Debug\net6.0\Result task.pdb
+C:\Users\yusuf\OneDrive\Документы\Developer\Results of the block. Choosing a specialization\Result task\obj\Debug\net6.0\Result task.genruntimeconfig.cache
+C:\Users\yusuf\OneDrive\Документы\Developer\Results of the block. Choosing a specialization\Result task\obj\Debug\net6.0\ref\Result task.dll
